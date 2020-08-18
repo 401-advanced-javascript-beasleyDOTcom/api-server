@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": "id2001",
+      "name": "good times",
+      "display_name": "Good Times for the Golden Days",
+      "description": "just bassically the best stuff and ever and ever ever"
+    },
+    {
+      "id": 123,
+      "name": "good times",
+      "display_name": "Good Times",
+      "description": "just bassically the best stuff ever"
+    }
+  ],
+  "products": [
+    {
+      "id": 99,
+      "name": "good thymes",
+      "category": "smells",
+      "display_name": "Good Times for the Golden Days",
+      "description": "just bassically the best stuff and ever and ever ever"
+    }
+  ]
+}
