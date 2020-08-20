@@ -29,6 +29,10 @@ My biggest struggle with today's lab was actually getting swagger to "create an 
 Today I wrote a lot of routes, spent a few hours trying to get the time route to work right, still not what I'd like but I needed to move on.
 I read the demos and tried to learn from those. 
 
+### day 3
+I spent most of today working on a error from last night and that was frustrating.. but excited to learn more about tracing those and hopefully spending less of my time being stumped and unable to make progress! 
+I got my routes all moved over and converted.. getting a lot of depreciation warnings, and some other errors regarding some of my get's not working but I think I just have to finish connecting them. gonna do a little more work tonight and then try to start again on it in the morning.
+
 ## Technical Description
 swagger url:
 https://app.swaggerhub.com/apis/beasleyDOTcom/ooops/0.1
