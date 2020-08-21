@@ -5,8 +5,12 @@ require('dotenv').config();
 
 const mongooseOptions = {
     useNewUrlParser: true,
-    useCreateIndex: true,
+    useUnifiedTopology: true,
 };
+console.log('reached index.js')
+mongoose.connect('mongodb://localhost:27017/', mongooseOptions, ()=>{
+    console.log('you have CONNECTED')
+    server.start();
+}).catch(() => console.log('connect is not working?'));
 
-mongoose.connect(process.env.MONGODB_URI, mongooseOptions);
-server.start(process.env.PORT);
+
