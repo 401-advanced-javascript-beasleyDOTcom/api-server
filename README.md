@@ -33,6 +33,11 @@ I read the demos and tried to learn from those.
 I spent most of today working on a error from last night and that was frustrating.. but excited to learn more about tracing those and hopefully spending less of my time being stumped and unable to make progress! 
 I got my routes all moved over and converted.. getting a lot of depreciation warnings, and some other errors regarding some of my get's not working but I think I just have to finish connecting them. gonna do a little more work tonight and then try to start again on it in the morning.
 
+### day 4?
+I can't believe this is day 4. 
+I spent from 2:30 to 7 trying to get a route to work correctly with mongoose then actually wrote code from 7:30 to 11:45.
+I had to revert to a previous days commit and kinda lose some work in order to get stuff working. 
+I am finally starting to understand the goal and am excited to actually get to play with the features we learned this week. 
 ## Technical Description
 swagger url:
 https://app.swaggerhub.com/apis/beasleyDOTcom/ooops/0.1
