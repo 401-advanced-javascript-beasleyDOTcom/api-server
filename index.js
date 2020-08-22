@@ -10,7 +10,7 @@ const mongooseOptions = {
 console.log('reached index.js')
 mongoose.connect('mongodb://localhost:27017/', mongooseOptions, ()=>{
     console.log('you have CONNECTED')
-    server.start();
-}).catch(() => console.log('connect is not working?'));
 
+}).catch(() => console.log('connect is not working?'));
+server.start();
 

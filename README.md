@@ -39,6 +39,8 @@ I spent from 2:30 to 7 trying to get a route to work correctly with mongoose the
 I had to revert to a previous days commit and kinda lose some work in order to get stuff working. 
 I am finally starting to understand the goal and am excited to actually get to play with the features we learned this week. 
 ## Technical Description
+# day11
+# mongod --dbpath ./file location you want your data to be stored in(database)
 swagger url:
 https://app.swaggerhub.com/apis/beasleyDOTcom/ooops/0.1
 ### How to Start
