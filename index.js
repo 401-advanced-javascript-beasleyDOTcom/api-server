@@ -8,7 +8,7 @@ const mongooseOptions = {
     useUnifiedTopology: true,
 };
 
-mongoose.connect(process.env.MONGODB_URI, mongooseOptions, () =>{
+mongoose.connect('mongodb://localhost:27017/beasleyTown', mongooseOptions, () =>{
     console.log('connected to mongodb')
 })
 server.start(3005);
